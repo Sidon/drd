@@ -2,7 +2,6 @@ import json
 from django.shortcuts import render
 from .models import Brand, Car
 
-
 def regcar(request):
     brands = Brand.objects.all()
     cars = Car.objects.all()
