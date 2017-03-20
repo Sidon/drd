@@ -26,6 +26,4 @@ Usage
 -----
    ./manage runserver
 
-::
-
 .. image:: regcar.png
