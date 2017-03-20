@@ -9,7 +9,7 @@ How to populate the options of a select element, based on selection on another w
 I used pure javascript and Jquery. For tranSport data from Django to JS, JSON format is used.
 
 
-Requiriments
+Requirements
 ------------
 
 ::
